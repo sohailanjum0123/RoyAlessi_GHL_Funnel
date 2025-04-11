@@ -398,7 +398,6 @@ function initMap() {}
             setTimeout(() => {
               addPaddingToParentWithHideClass();
             }, 50);
-
             const date1 = new Date(date);
             const dayOfWeek = date1.getDay();
 

@@ -27,6 +27,7 @@ function mainScript() {
       datepickerInit();
     };
   })();
+  
   let searchcontainer = ".search-container";
   let dateContainer = ".date-container";
   let infocontainer = ".info-container";
